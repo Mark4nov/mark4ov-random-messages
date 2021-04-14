@@ -1,0 +1,16 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "Random messages for you!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesús Marcano <MPJEduardo@outlook.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
