@@ -10,7 +10,15 @@
   "author": "Jesús Marcano <MPJEduardo@outlook.com>",
   "license": "MIT",
   "bin": {
-    "mark-random-msg": "./bin/global.js"
+    "mark-random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark4nov/mark4ov-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mark4nov/mark4ov-random-messages/issues"
+  },
+  "homepage": "https://github.com/Mark4nov/mark4ov-random-messages#readme"
 }
