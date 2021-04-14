@@ -3,7 +3,8 @@ const messages = [
     "Compra oro",
     "El fin del mundo se acerca",
     "WATCH FOR THE UFOS",
-    "L is Real"
+    "L is Real",
+    "ERAN HERMANOS WEY!"
 ]
 
 const randomMsg = () =>{
@@ -12,4 +13,4 @@ const randomMsg = () =>{
 }
 
 
-export default { randomMsg };
+module.exports = {randomMsg};

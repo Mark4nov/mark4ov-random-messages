@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "mark4nov-random-messages",
   "version": "1.0.1",
   "description": "Random messages for you!",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "author": "Jesús Marcano <MPJEduardo@outlook.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "mark-random-msg": "./bin/global.js"
   },
   "preferGlobal": true
 }
